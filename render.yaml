@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: proyecto-brecha-educativa
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: sh -c "mercury run 02_articulo_interactivo.ipynb --host 0.0.0.0 --port $PORT"
