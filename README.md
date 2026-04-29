@@ -13,12 +13,12 @@ Los datos utilizados en este proyecto provienen de fuentes oficiales del Gobiern
 
 1. **Educación (Grado Promedio de Escolaridad por Entidad Federativa):**
    * **Fuente:** INEGI (Censos y Conteos de Población y Vivienda).
-   * **URL Exacta:** https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Educacion_Educacion_05_e60da309-8717-4b72-9cc9-9686e0df0d67
+   * **URL Exacta:** https://www.inegi.org.mx/app/tabulados/interactivos/?pxq=Educacion_Educacion_05_2f6d2a08-babc-442f-b4e0-25f7d324dfe0
    * **Fecha de descarga:** Abril de 2026.
    * **Formato original:** CSV.
 2. **Economía (Producto Interno Bruto por Entidad Federativa):**
    * **Fuente:** INEGI (Sistema de Cuentas Nacionales de México).
-   * **URL Exacta:** https://www.inegi.org.mx/programas/pibent/2018/
+   * **URL Exacta:** https://www.inegi.org.mx/app/tabulados/default.aspx?pr=17&vr=6&in=2&tp=20&wr=1&cno=2
    * **Fecha de descarga:** Abril de 2026.
    * **Formato original:** CSV.
 3. **Cartografía (Polígonos de México):**
@@ -30,5 +30,5 @@ Para replicar este proyecto en tu entorno local, sigue estos pasos:
 
 1. Clona este repositorio: `git clone https://github.com/DiegoPrudente/proyecto-final-brecha-educativa.git`
 2. Crea un entorno virtual e instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta el servidor de Mercury en tu terminal: `mercury run`
+3. Ejecuta el servidor de Mercury en tu terminal: `mercury`
 4. Abre tu navegador en la dirección `http://127.0.0.1:8000`
