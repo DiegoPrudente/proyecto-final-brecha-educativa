@@ -28,7 +28,7 @@ Los datos utilizados en este proyecto provienen de fuentes oficiales del Gobiern
 ## Instrucciones para Ejecución Local
 Para replicar este proyecto en tu entorno local, sigue estos pasos:
 
-1. Clona este repositorio: `git clone [AQUÍ VA EL LINK DE TU REPOSITORIO DE GITHUB]`
+1. Clona este repositorio: `git clone https://github.com/DiegoPrudente/proyecto-final-brecha-educativa.git`
 2. Crea un entorno virtual e instala las dependencias: `pip install -r requirements.txt`
 3. Ejecuta el servidor de Mercury en tu terminal: `mercury run`
 4. Abre tu navegador en la dirección `http://127.0.0.1:8000`
