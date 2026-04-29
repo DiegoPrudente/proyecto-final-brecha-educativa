@@ -3,3 +3,4 @@ plotly
 mercury
 requests
 urllib3
+gunicorn
