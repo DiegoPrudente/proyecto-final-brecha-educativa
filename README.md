@@ -6,7 +6,7 @@
 Este proyecto de análisis de datos y visualización interactiva somete a prueba una de las premisas más antiguas de la política pública: ¿El esfuerzo de mantener a la población en las aulas se traduce realmente en una mayor riqueza (PIB) para los estados en México? A través de una narrativa de datos (Data Storytelling), exploramos 20 años de rezago, clústeres geográficos de riqueza y el impacto social de la desigualdad económica.
 
 ## Despliegue en Línea
-🔗 **[AQUÍ VA EL LINK DE TU PÁGINA PUBLICADA EN MERCURY CLOUD]**
+🔗 **https://proyecto-final-diego.runmercury.com/**
 
 ## Fuente de Datos
 Los datos utilizados en este proyecto provienen de fuentes oficiales del Gobierno de México y repositorios de código abierto:
