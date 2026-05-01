@@ -1,7 +1,6 @@
-mercury==3.0.2
+mljar-mercury==3.0.2
 pandas
 plotly
 requests
 urllib3
 gunicorn
-mljar-mercury
