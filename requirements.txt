@@ -1,4 +1,4 @@
-mljar-mercury==3.0.2
+mljar-mercury
 pandas
 plotly
 requests
